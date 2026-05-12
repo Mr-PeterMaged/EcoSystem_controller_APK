@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/Mr-PeterMaged/EcoSystem_controller_APK/main/EcoSystem_Controller_release_apk-5.apk"><b>Direct Download</b></a>
+  <a href="https://raw.githubusercontent.com/Mr-PeterMaged/EcoSystem_controller_APK/main/EcoSystem_Controller_release_apk-6.apk"><b>Direct Download</b></a>
 </p>
 
 ---
 
-- **Latest APK:** `EcoSystem_Controller_release_apk-5.apk`
+- **Latest APK:** `EcoSystem_Controller_release_apk-6.apk`
 - **Version:** `latest`
-- **Updated:** `2026-05-13T01:45:33+03:00`
+- **Updated:** `2026-05-13T02:10:51+03:00`
 
 This repository contains only the latest public APK build.
