@@ -16,6 +16,6 @@
 
 - **Latest APK:** `EcoSystem_Controller_release_apk-5.apk`
 - **Version:** `latest`
-- **Updated:** `2026-05-13T01:39:26+03:00`
+- **Updated:** `2026-05-13T01:45:33+03:00`
 
 This repository contains only the latest public APK build.
